@@ -1,2 +1,2 @@
-# dc-dind-minikube-dotnet
-My common devcontainer for VS Code.
+# VSCode Devcontainer template
+My common devcontainer templates for VS Code.
